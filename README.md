@@ -1,5 +1,8 @@
-### Hi there 👋
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thea Tan
+================================================================================================================================
 
+* 🌍  I'm based in Canada
+* 🖥️  See my portfolio at [here](http://theatan-1.github.io)
 <!--
 **theatan-1/theatan-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
